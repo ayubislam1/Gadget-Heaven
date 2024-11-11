@@ -1,0 +1,281 @@
+[
+	{
+		"product_id": "MOB98765",
+		"title": "Galaxy Z Fold5",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Z-Fold5-Icy-Blue-4723.jpg",
+		"category": "Mobile",
+		"price": 1899.99,
+		"description": "Revolutionary foldable smartphone with dual screens and 5G connectivity.",
+		"specifications": [
+			{ "Display": "7.6 inches (main)" },
+			{ "Storage": "512GB" },
+			{ "RAM": "12GB" },
+			{ "Camera": "50MP + 12MP" },
+			{ "Battery": "4400mAh" }
+		],
+		"availability": true,
+		"rating": 4.9,
+		"otherFields": {
+			"brand": "Samsung",
+			"weight": "263g",
+			"color": "Phantom Black",
+			"OS": "Android 13"
+		}
+	},
+	{
+		"product_id": "MOB45678",
+		"title": "Pixel 8 Pro",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-8-Pro-Porcelain-5189.jpg",
+		"category": "Mobile",
+		"price": 1099.99,
+		"description": "Google's latest flagship with AI-enhanced camera and Tensor G3 processor.",
+		"specifications": [
+			{ "Display": "6.7 inches" },
+			{ "Storage": "128GB" },
+			{ "RAM": "12GB" },
+			{ "Camera": "50MP + 48MP + 12MP" },
+			{ "Battery": "5000mAh" }
+		],
+		"availability": true,
+		"rating": 4.8,
+		"otherFields": {
+			"brand": "Google",
+			"weight": "213g",
+			"color": "Obsidian",
+			"OS": "Android 14"
+		}
+	},
+	{
+		"product_id": "MOB11223",
+		"title": "OnePlus 12",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/OnePlus-12-Silky-Black-5868.jpg",
+		"category": "Mobile",
+		"price": 849.99,
+		"description": "High-performance smartphone with super-fast charging and Fluid AMOLED display.",
+		"specifications": [
+			{ "Display": "6.7 inches" },
+			{ "Storage": "256GB" },
+			{ "RAM": "16GB" },
+			{ "Camera": "64MP + 50MP + 8MP" },
+			{ "Battery": "4800mAh" }
+		],
+		"availability": true,
+		"rating": 4.7,
+		"otherFields": {
+			"brand": "OnePlus",
+			"weight": "203g",
+			"color": "Glacier Blue",
+			"OS": "Android 13"
+		}
+	},
+	{
+		"product_id": "MOB90987",
+		"title": "Galaxy S24 Ultra",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S24-Ultra-Titanium-Violet-1052.jpg",
+		"category": "Mobile",
+		"price": 1399.99,
+		"description": "Samsung's latest flagship with a powerful camera and advanced AI features.",
+		"specifications": [
+			{ "Display": "6.8 inches" },
+			{ "Storage": "512GB" },
+			{ "RAM": "12GB" },
+			{ "Camera": "200MP + 12MP + 10MP" },
+			{ "Battery": "5000mAh" }
+		],
+		"availability": true,
+		"rating": 4.9,
+		"otherFields": {
+			"brand": "Samsung",
+			"weight": "234g",
+			"color": "Phantom Black",
+			"OS": "Android 14"
+		}
+	},
+	{
+		"product_id": "MOB10234",
+		"title": "iPhone 16 Pro Max",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Pro-Max---16-Pro-Black-Titanium-2734.jpg",
+		"category": " Mobile",
+		"price": 1599.99,
+		"description": "Apple's latest iPhone with advanced features and powerful A18 chip.",
+		"specifications": [
+			{ "Display": "6.9 inches" },
+			{ "Storage": "512GB" },
+			{ "RAM": "8GB" },
+			{ "Camera": "48MP + 12MP + 12MP" },
+			{ "Battery": "4352mAh" }
+		],
+		"availability": true,
+		"rating": 4.9,
+		"otherFields": {
+			"brand": "Apple",
+			"weight": "240g",
+			"color": "Silver",
+			"OS": "iOS 18"
+		}
+	},
+	{
+		"product_id": "LAP99887",
+		"title": "MacBook Pro M3 Max",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Pro-M3-16inch-Space-Black-9948.jpg",
+		"category": "Laptops",
+		"price": 3499.99,
+		"description": "Powerful MacBook with Apple's M3 Max chip, designed for professionals.",
+		"specifications": [
+			{ "Processor": "M3 Max" },
+			{ "Storage": "1TB SSD" },
+			{ "RAM": "32GB" },
+
+			{ "Graphics": "Integrated" },
+			{ "Screen Size": "16 inches" }
+		],
+		"availability": true,
+		"rating": 4.9,
+		"otherFields": {
+			"batteryLife": "18 hours",
+			"brand": "Apple",
+			"weight": "2.2kg",
+			"OS": "macOS"
+		}
+	},
+	{
+		"product_id": "LAP33445",
+		"title": "Dell XPS 15 2024",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/XPS-15-9530-c-1421.jpg",
+		"category": "Laptops",
+		"price": 2199.99,
+		"description": "High-resolution 4K touchscreen laptop with Intel's 14th-gen processor.",
+		"specifications": [
+			{ "Processor": "Intel Core i9" },
+
+			{ "Storage": "1TB SSD" },
+			{ "RAM": "32GB" },
+			{ "Graphics": "NVIDIA RTX 4060" },
+			{ "Screen Size": "15.6 inches" }
+		],
+		"availability": true,
+		"rating": 4.8,
+		"otherFields": {
+			"batteryLife": "12 hours",
+			"brand": "Dell",
+			"weight": "1.8kg",
+			"OS": "Windows 11"
+		}
+	},
+	{
+		"product_id": "LAP22334",
+		"title": "HP Spectre x360",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/Hp-Spectre-16-f2013dx-Core-i7-12th-Genaration--Intel-Iris-Xe-Graphics-x360-2-in-1-Laptop-6923.jpg",
+		"category": "Laptops",
+		"price": 1599.99,
+		"description": "Premium 2-in-1 laptop with 360-degree hinge and OLED display.",
+		"specifications": [
+			{ "Processor": "Intel Core i7" },
+			{ "Storage": "512GB SSD" },
+			{ "RAM": "16GB" },
+
+			{ "Graphics": "Intel Iris Xe" },
+			{ "Screen Size": "14 inches" }
+		],
+		"availability": false,
+		"rating": 4.6,
+		"otherFields": {
+			"batteryLife": "13 hours",
+			"brand": "HP",
+			"weight": "1.3kg",
+			"OS": "Windows 11"
+		}
+	},
+	{
+		"product_id": "HPD90876",
+		"title": "Sony WH-1000XM5",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/5318-55349.jpg",
+		"category": "Accessories",
+		"price": 399.99,
+		"description": "Industry-leading noise-canceling headphones with exceptional sound quality.",
+		"specifications": [
+			{ "Display": "30 hours" },
+			{ "Storage": "5.2" },
+			{ "RAM": "Active" },
+			{ "Camera": "2 hours" },
+			{ "Color": "Black" }
+		],
+		"availability": true,
+		"rating": 4.9,
+		"otherFields": {
+			"warranty": "2 years",
+			"brand": "Sony",
+			"weight": "250g",
+			"dimensions": "9 x 8 x 3 inches"
+		}
+	},
+	{
+		"product_id": "HPD23456",
+		"title": "Bose QuietComfort Ultra",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/Bose-QuietComfort-Ultra-Headphones-Black-8357.jpg",
+		"category": "Accessories",
+		"price": 349.99,
+		"description": "Top-tier noise-canceling headphones with immersive audio experience.",
+		"specifications": [
+			{ "Display": "24 hours" },
+			{ "Storage": "5.3" },
+			{ "RAM": "Active" },
+			{ "Camera": "1.5 hours" },
+			{ "Color": "Silver" }
+		],
+		"availability": true,
+		"rating": 4.8,
+		"otherFields": {
+			"warranty": "1 year",
+			"brand": "Bose",
+			"weight": "255g",
+			"dimensions": "8 x 6 x 3 inches"
+		}
+	},
+	{
+		"product_id": "TAB65432",
+		"title": "iPad Pro 12.9 M2",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPad-Pro-M2-2022---11inch-Space-Gray-9527.jpg",
+		"category": "Tablets",
+		"price": 1299.99,
+		"description": "Apple's powerful tablet with the M2 chip, ideal for creative professionals.",
+		"specifications": [
+			{ "Display": "12.9 inches" },
+			{ "Storage": "1TB" },
+			{ "RAM": "16GB" },
+			{ "Camera": "12MP + 10MP Ultra Wide" },
+			{ "Battery": "10758mAh" }
+		],
+		"availability": true,
+		"rating": 4.9,
+		"otherFields": {
+			"brand": "Apple",
+			"weight": "682g",
+			"color": "Silver",
+			"OS": "iPadOS 17"
+		}
+	},
+	{
+		"product_id": "SMT78901",
+		"title": " Tab S9 Ultra",
+		"image": "https://adminapi.applegadgetsbd.com/storage/media/large/Samsung-Galaxy-Tab-S8S7-Book-Cover-Keyboard-Black-5671.jpg",
+		"category": "Tablets",
+		"price": 1199.99,
+		"description": "High-performance tablet with a large Super AMOLED display and S Pen support.",
+		"specifications": [
+			{ "Display": "14.6 inches" },
+			{ "Storage": "512GB" },
+			{ "RAM": "12GB" },
+			{ "Camera": "13MP + 8MP" },
+			{ "Battery": "11200mAh" }
+		],
+		"availability": true,
+		"rating": 4.8,
+		"otherFields": {
+			"brand": "Samsung",
+			"weight": "737g",
+			"color": "Graphite",
+			"OS": "Android 13"
+		}
+	}
+]
