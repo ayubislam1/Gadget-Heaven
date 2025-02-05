@@ -4,7 +4,7 @@
 [Gadget Heaven](https://gadget1.netlify.app/)
 
 ## Requirement Document
-[Gadget Heaven Frontend](https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-ayubislam1)
+[Gadget Heaven Frontend](https://github.com/ayubislam1/Gadget-Heaven.git)
 
 ## Overview
 Gadget Heaven is an online platform for buying and selling electrical devices. We offer various product categories, including laptops, mobile phones, headphones, and watches. This project showcases fundamental React concepts and modern web development practices to deliver a dynamic and responsive user experience.
@@ -38,8 +38,8 @@ Ensure you have the following installed:
 Run the following command to clone the project:
 
 ```bash
-git clone https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-ayubislam1.git
-cd b10a8-gadget-heaven-ayubislam1
+git clone https://github.com/ayubislam1/Gadget-Heaven.git
+
 ```
 
 ---
